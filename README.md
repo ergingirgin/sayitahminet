@@ -20,4 +20,4 @@ while hak > 0:
     print("Aşağı")
 
   if hak == 0:
-    print("Hakkınız Bitmiştir...")
+    print(f"Hakkınız Bitmiştir... Tutulan Sayı: {sayi} ")
